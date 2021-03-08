@@ -12,15 +12,16 @@ public class Calculator {
 
         double n1,n2;
         int ch,n;
+        String s;
         Calculator calculator=new Calculator();
         while(true)
         {
             System.out.println("Scientific Calculator");
-            System.out.println("Press 1 for Square Root function\n");
-            System.out.println("Press 2 for Factorial function\n");
-            System.out.println("Press 3 for Natural Logarithm function\n");
-            System.out.println("Press 4 for Power function\n");
-            System.out.println("Enter your Choice\n");
+            System.out.println("Press 1 for Square Root function");
+            System.out.println("Press 2 for Factorial function");
+            System.out.println("Press 3 for Natural Logarithm function");
+            System.out.println("Press 4 for Power function");
+            System.out.println("Enter your Choice");
 
             ch = scanner.nextInt();
 
@@ -51,6 +52,8 @@ public class Calculator {
                 default:
                     System.out.println("Wrong choice");
             }
+            System.out.println("*************************************");
+
 
         }
 
