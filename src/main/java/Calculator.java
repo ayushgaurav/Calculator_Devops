@@ -11,7 +11,7 @@ public class Calculator {
         Scanner scanner = new Scanner(System.in);
 
         double n1,n2;
-        int ch;
+        int ch,n;
         Calculator calculator=new Calculator();
         while(true)
         {
@@ -28,16 +28,28 @@ public class Calculator {
             {
                 case 1:
                     System.out.println("Enter Your number");
-                    n1=scanner.nextInt();
+                    n1=scanner.nextDouble();
                     System.out.println(calculator.squareroot(n1));
                     break;
                 case 2:
+                    System.out.println("Enter your number");
+                    n=scanner.nextInt();
+                    System.out.println(calculator.factorial(n));
                     break;
                 case 3:
+                    System.out.println("Enter Your number");
+                    n1=scanner.nextDouble();
+                    System.out.println(calculator.logirithm(n1));
                     break;
                 case 4:
+                    System.out.println("Enter Your number");
+                    n1 = scanner.nextDouble();
+                    System.out.println("Enter power");
+                    n2 = scanner.nextDouble();
+                    System.out.println(calculator.power(n1,n2));
                     break;
                 default:
+                    System.out.println("Wrong choice");
             }
 
         }
@@ -47,8 +59,31 @@ public class Calculator {
     public double squareroot(double n1)
     {
         double ans;
-
         ans = Math.sqrt(n1);
+        return ans;
+    }
+
+    public int factorial(int n)
+    {
+        int f=1;
+        for(int i=1;i<=n;i++)
+        {
+            f=f*i;
+        }
+        return f;
+    }
+
+    public double logirithm(double n1)
+    {
+        double ans;
+        ans = Math.log(n1);
+        return ans;
+    }
+
+    public double power(double n1,double n2)
+    {
+        double ans;
+        ans = Math.pow(n1,n2);
         return ans;
     }
 
