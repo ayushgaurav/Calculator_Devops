@@ -3,7 +3,8 @@ import org.junit.*;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotEquals;
 
-public class CalculatorTesting {
+
+public class CalculatorTest {
     Calculator calculator = new Calculator();
     private static final double Delta = 1e-15;
 
