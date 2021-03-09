@@ -85,7 +85,7 @@ public class CalculatorTest {
 
     @After
     public void afterCalculatorTesting(){
-        System.out.println("Before Calculator Testing");
+        System.out.println("After Calculator function Testing");
     }
     @AfterClass
     public static void afterCalculatorTestingClass(){
