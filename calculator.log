@@ -94,3 +94,99 @@
 11/Mar/2021:11:40:33 337 [Calculator.java] [INFO] Calculator [Result - Power] - 10000.0
 11/Mar/2021:11:40:33 337 [Calculator.java] [INFO] Calculator [Power] - 25.0 , 2.0
 11/Mar/2021:11:40:33 338 [Calculator.java] [INFO] Calculator [Result - Power] - 625.0
+11/Mar/2021:12:43:29 730 [Calculator.java] [INFO] Calculator [Power] - 11.0 , 2.0
+11/Mar/2021:12:43:29 733 [Calculator.java] [INFO] Calculator [Result - Power] - 121.0
+11/Mar/2021:12:43:29 734 [Calculator.java] [INFO] Calculator [Power] - 10.0 , 4.0
+11/Mar/2021:12:43:29 735 [Calculator.java] [INFO] Calculator [Result - Power] - 10000.0
+11/Mar/2021:12:43:29 735 [Calculator.java] [INFO] Calculator [Power] - 25.0 , 2.0
+11/Mar/2021:12:43:29 735 [Calculator.java] [INFO] Calculator [Result - Power] - 625.0
+11/Mar/2021:12:43:29 737 [Calculator.java] [INFO] Calculator [Factorial] - 5
+11/Mar/2021:12:43:29 738 [Calculator.java] [INFO] Calculator [Result - Factorial] - 120
+11/Mar/2021:12:43:29 738 [Calculator.java] [INFO] Calculator [Factorial] - 6
+11/Mar/2021:12:43:29 738 [Calculator.java] [INFO] Calculator [Result - Factorial] - 720
+11/Mar/2021:12:43:29 738 [Calculator.java] [INFO] Calculator [Factorial] - 7
+11/Mar/2021:12:43:29 739 [Calculator.java] [INFO] Calculator [Result - Factorial] - 5040
+11/Mar/2021:12:43:29 739 [Calculator.java] [INFO] Calculator [Factorial] - 5
+11/Mar/2021:12:43:29 740 [Calculator.java] [INFO] Calculator [Result - Factorial] - 120
+11/Mar/2021:12:43:29 740 [Calculator.java] [INFO] Calculator [Factorial] - 6
+11/Mar/2021:12:43:29 741 [Calculator.java] [INFO] Calculator [Result - Factorial] - 720
+11/Mar/2021:12:43:29 741 [Calculator.java] [INFO] Calculator [Factorial] - 7
+11/Mar/2021:12:43:29 741 [Calculator.java] [INFO] Calculator [Result - Factorial] - 5040
+11/Mar/2021:12:43:29 742 [Calculator.java] [INFO] Calculator [Square Root] - 100.0
+11/Mar/2021:12:43:29 742 [Calculator.java] [INFO] Calculator [Result - Square root] - 10.0
+11/Mar/2021:12:43:29 743 [Calculator.java] [INFO] Calculator [Square Root] - 16.0
+11/Mar/2021:12:43:29 743 [Calculator.java] [INFO] Calculator [Result - Square root] - 4.0
+11/Mar/2021:12:43:29 743 [Calculator.java] [INFO] Calculator [Square Root] - 121.0
+11/Mar/2021:12:43:29 744 [Calculator.java] [INFO] Calculator [Result - Square root] - 11.0
+11/Mar/2021:12:43:29 745 [Calculator.java] [INFO] Calculator [Square Root] - 100.0
+11/Mar/2021:12:43:29 746 [Calculator.java] [INFO] Calculator [Result - Square root] - 10.0
+11/Mar/2021:12:43:29 746 [Calculator.java] [INFO] Calculator [Square Root] - 16.0
+11/Mar/2021:12:43:29 746 [Calculator.java] [INFO] Calculator [Result - Square root] - 4.0
+11/Mar/2021:12:43:29 747 [Calculator.java] [INFO] Calculator [Square Root] - 121.0
+11/Mar/2021:12:43:29 747 [Calculator.java] [INFO] Calculator [Result - Square root] - 11.0
+11/Mar/2021:12:43:29 748 [Calculator.java] [INFO] Calculator [logrithm] - 100.0
+11/Mar/2021:12:43:29 749 [Calculator.java] [INFO] Calculator [Result - Factorial] - 4.605170185988092
+11/Mar/2021:12:43:29 749 [Calculator.java] [INFO] Calculator [logrithm] - 500.0
+11/Mar/2021:12:43:29 750 [Calculator.java] [INFO] Calculator [Result - Factorial] - 6.214608098422191
+11/Mar/2021:12:43:29 750 [Calculator.java] [INFO] Calculator [logrithm] - 150.0
+11/Mar/2021:12:43:29 751 [Calculator.java] [INFO] Calculator [Result - Factorial] - 5.0106352940962555
+11/Mar/2021:12:43:29 752 [Calculator.java] [INFO] Calculator [logrithm] - 100.0
+11/Mar/2021:12:43:29 752 [Calculator.java] [INFO] Calculator [Result - Factorial] - 4.605170185988092
+11/Mar/2021:12:43:29 753 [Calculator.java] [INFO] Calculator [logrithm] - 500.0
+11/Mar/2021:12:43:29 753 [Calculator.java] [INFO] Calculator [Result - Factorial] - 6.214608098422191
+11/Mar/2021:12:43:29 754 [Calculator.java] [INFO] Calculator [logrithm] - 150.0
+11/Mar/2021:12:43:29 754 [Calculator.java] [INFO] Calculator [Result - Factorial] - 5.0106352940962555
+11/Mar/2021:12:43:29 755 [Calculator.java] [INFO] Calculator [Power] - 11.0 , 2.0
+11/Mar/2021:12:43:29 756 [Calculator.java] [INFO] Calculator [Result - Power] - 121.0
+11/Mar/2021:12:43:29 756 [Calculator.java] [INFO] Calculator [Power] - 10.0 , 4.0
+11/Mar/2021:12:43:29 757 [Calculator.java] [INFO] Calculator [Result - Power] - 10000.0
+11/Mar/2021:12:43:29 757 [Calculator.java] [INFO] Calculator [Power] - 25.0 , 2.0
+11/Mar/2021:12:43:29 758 [Calculator.java] [INFO] Calculator [Result - Power] - 625.0
+11/Mar/2021:12:44:38 576 [Calculator.java] [INFO] Calculator [Power] - 11.0 , 2.0
+11/Mar/2021:12:44:38 579 [Calculator.java] [INFO] Calculator [Result - Power] - 121.0
+11/Mar/2021:12:44:38 580 [Calculator.java] [INFO] Calculator [Power] - 10.0 , 4.0
+11/Mar/2021:12:44:38 580 [Calculator.java] [INFO] Calculator [Result - Power] - 10000.0
+11/Mar/2021:12:44:38 580 [Calculator.java] [INFO] Calculator [Power] - 25.0 , 2.0
+11/Mar/2021:12:44:38 581 [Calculator.java] [INFO] Calculator [Result - Power] - 625.0
+11/Mar/2021:12:44:38 583 [Calculator.java] [INFO] Calculator [Factorial] - 5
+11/Mar/2021:12:44:38 583 [Calculator.java] [INFO] Calculator [Result - Factorial] - 120
+11/Mar/2021:12:44:38 583 [Calculator.java] [INFO] Calculator [Factorial] - 6
+11/Mar/2021:12:44:38 584 [Calculator.java] [INFO] Calculator [Result - Factorial] - 720
+11/Mar/2021:12:44:38 584 [Calculator.java] [INFO] Calculator [Factorial] - 7
+11/Mar/2021:12:44:38 584 [Calculator.java] [INFO] Calculator [Result - Factorial] - 5040
+11/Mar/2021:12:44:38 585 [Calculator.java] [INFO] Calculator [Factorial] - 5
+11/Mar/2021:12:44:38 585 [Calculator.java] [INFO] Calculator [Result - Factorial] - 120
+11/Mar/2021:12:44:38 586 [Calculator.java] [INFO] Calculator [Factorial] - 6
+11/Mar/2021:12:44:38 586 [Calculator.java] [INFO] Calculator [Result - Factorial] - 720
+11/Mar/2021:12:44:38 586 [Calculator.java] [INFO] Calculator [Factorial] - 7
+11/Mar/2021:12:44:38 587 [Calculator.java] [INFO] Calculator [Result - Factorial] - 5040
+11/Mar/2021:12:44:38 588 [Calculator.java] [INFO] Calculator [Square Root] - 100.0
+11/Mar/2021:12:44:38 588 [Calculator.java] [INFO] Calculator [Result - Square root] - 10.0
+11/Mar/2021:12:44:38 588 [Calculator.java] [INFO] Calculator [Square Root] - 16.0
+11/Mar/2021:12:44:38 589 [Calculator.java] [INFO] Calculator [Result - Square root] - 4.0
+11/Mar/2021:12:44:38 589 [Calculator.java] [INFO] Calculator [Square Root] - 121.0
+11/Mar/2021:12:44:38 590 [Calculator.java] [INFO] Calculator [Result - Square root] - 11.0
+11/Mar/2021:12:44:38 591 [Calculator.java] [INFO] Calculator [Square Root] - 100.0
+11/Mar/2021:12:44:38 591 [Calculator.java] [INFO] Calculator [Result - Square root] - 10.0
+11/Mar/2021:12:44:38 591 [Calculator.java] [INFO] Calculator [Square Root] - 16.0
+11/Mar/2021:12:44:38 592 [Calculator.java] [INFO] Calculator [Result - Square root] - 4.0
+11/Mar/2021:12:44:38 592 [Calculator.java] [INFO] Calculator [Square Root] - 121.0
+11/Mar/2021:12:44:38 593 [Calculator.java] [INFO] Calculator [Result - Square root] - 11.0
+11/Mar/2021:12:44:38 593 [Calculator.java] [INFO] Calculator [logrithm] - 100.0
+11/Mar/2021:12:44:38 594 [Calculator.java] [INFO] Calculator [Result - Factorial] - 4.605170185988092
+11/Mar/2021:12:44:38 594 [Calculator.java] [INFO] Calculator [logrithm] - 500.0
+11/Mar/2021:12:44:38 594 [Calculator.java] [INFO] Calculator [Result - Factorial] - 6.214608098422191
+11/Mar/2021:12:44:38 595 [Calculator.java] [INFO] Calculator [logrithm] - 150.0
+11/Mar/2021:12:44:38 595 [Calculator.java] [INFO] Calculator [Result - Factorial] - 5.0106352940962555
+11/Mar/2021:12:44:38 596 [Calculator.java] [INFO] Calculator [logrithm] - 100.0
+11/Mar/2021:12:44:38 597 [Calculator.java] [INFO] Calculator [Result - Factorial] - 4.605170185988092
+11/Mar/2021:12:44:38 597 [Calculator.java] [INFO] Calculator [logrithm] - 500.0
+11/Mar/2021:12:44:38 598 [Calculator.java] [INFO] Calculator [Result - Factorial] - 6.214608098422191
+11/Mar/2021:12:44:38 598 [Calculator.java] [INFO] Calculator [logrithm] - 150.0
+11/Mar/2021:12:44:38 598 [Calculator.java] [INFO] Calculator [Result - Factorial] - 5.0106352940962555
+11/Mar/2021:12:44:38 599 [Calculator.java] [INFO] Calculator [Power] - 11.0 , 2.0
+11/Mar/2021:12:44:38 600 [Calculator.java] [INFO] Calculator [Result - Power] - 121.0
+11/Mar/2021:12:44:38 600 [Calculator.java] [INFO] Calculator [Power] - 10.0 , 4.0
+11/Mar/2021:12:44:38 601 [Calculator.java] [INFO] Calculator [Result - Power] - 10000.0
+11/Mar/2021:12:44:38 601 [Calculator.java] [INFO] Calculator [Power] - 25.0 , 2.0
+11/Mar/2021:12:44:38 602 [Calculator.java] [INFO] Calculator [Result - Power] - 625.0
