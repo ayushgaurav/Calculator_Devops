@@ -1,6 +1,11 @@
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 import java.util.Scanner;
 
 public class Calculator {
+
+    private static final Logger logger = LogManager.getLogger(Calculator.class);
 
     public Calculator()
     {
@@ -61,32 +66,40 @@ public class Calculator {
 
     public double squareroot(double n1)
     {
+        logger.info("[Square Root] - " + n1);
         double ans;
         ans = Math.sqrt(n1);
+        logger.info("[Result - Square root] - " + ans);
         return ans;
     }
 
     public int factorial(int n)
     {
+        logger.info("[Factorial] - " + n);
         int f=1;
         for(int i=1;i<=n;i++)
         {
             f=f*i;
         }
+        logger.info("[Result - Factorial] - " + f);
         return f;
     }
 
     public double logirithm(double n1)
     {
+        logger.info("[logrithm] - " + n1);
         double ans;
         ans = Math.log(n1);
+        logger.info("[Result - Factorial] - " + ans);
         return ans;
     }
 
     public double power(double n1,double n2)
     {
+        logger.info("[Power] - " + n1 + " , " + n2);
         double ans;
         ans = Math.pow(n1,n2);
+        logger.info("[Result - Power] - " + ans);
         return ans;
     }
 
