@@ -21,11 +21,12 @@ public class Calculator {
         Calculator calculator=new Calculator();
         while(true)
         {
-            System.out.println("Scientific Calculator");
+            System.out.println("_____________Scientific Calculator______________");
             System.out.println("Press 1 for Square Root function");
             System.out.println("Press 2 for Factorial function");
             System.out.println("Press 3 for Natural Logarithm function");
             System.out.println("Press 4 for Power function");
+            System.out.println("_________________________________________________");
             System.out.println("Enter your Choice");
 
             ch = scanner.nextInt();
@@ -35,29 +36,29 @@ public class Calculator {
                 case 1:
                     System.out.println("Enter Your number");
                     n1=scanner.nextDouble();
-                    System.out.println(calculator.squareroot(n1));
+                    System.out.println("Answer: "+calculator.squareroot(n1));
                     break;
                 case 2:
                     System.out.println("Enter your number");
                     n=scanner.nextInt();
-                    System.out.println(calculator.factorial(n));
+                    System.out.println("Answer: "+calculator.factorial(n));
                     break;
                 case 3:
                     System.out.println("Enter Your number");
                     n1=scanner.nextDouble();
-                    System.out.println(calculator.logirithm(n1));
+                    System.out.println("Answer: "+calculator.logirithm(n1));
                     break;
                 case 4:
                     System.out.println("Enter Your number");
                     n1 = scanner.nextDouble();
                     System.out.println("Enter power");
                     n2 = scanner.nextDouble();
-                    System.out.println(calculator.power(n1,n2));
+                    System.out.println("Answer: "+calculator.power(n1,n2));
                     break;
                 default:
                     System.out.println("Wrong choice");
             }
-            System.out.println("*************************************");
+            System.out.println("_________________________________________________");
 
 
         }
@@ -90,7 +91,7 @@ public class Calculator {
         logger.info("[logrithm] - " + n1);
         double ans;
         ans = Math.log(n1);
-        logger.info("[Result - Factorial] - " + ans);
+        logger.info("[Result - Logrithm] - " + ans);
         return ans;
     }
 
